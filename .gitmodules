@@ -1,3 +1,0 @@
-[submodule "Aircloud"]
-	path = ./themes/Aircloud
-	url = git@github.com:aircloud/hexo-theme-aircloud.git
