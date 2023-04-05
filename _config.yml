@@ -123,7 +123,7 @@ theme: aircloud
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-#deploy:
-#  type: git
-#  repo: your repo url
-#  branch: master
+deploy:
+  type: git
+  repo: git@github.com:ThreeSec/3SecBlog.git
+  branch: main
